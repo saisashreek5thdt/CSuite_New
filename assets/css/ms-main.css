@@ -3501,7 +3501,7 @@ ul.alignnone {
     bottom: calc(100% + var(--space-md));
     letter-spacing: 1pt;
     text-transform: uppercase;
-    color: #fff;
+    color: #2C3795;
 }
 
 .swiper-full-page .slide-title-container .slide-title {
@@ -3529,7 +3529,7 @@ ul.alignnone {
     margin-bottom: 8px;
     vertical-align: baseline;
     word-wrap: break-word;
-    color: var(--color-white);
+    color: #2C3795;
 }
 
 .swiper-full-page .slide-title-container .slide-link {
@@ -3542,7 +3542,7 @@ ul.alignnone {
     -webkit-transition: opacity 400ms ease 400ms;
     transition: opacity 400ms ease 400ms;
     opacity: 0;
-    color: var(--color-white);
+    color: #0C9C9A;
     -webkit-box-align: center;
     -webkit-align-items: center;
     -ms-flex-align: center;
@@ -3563,7 +3563,7 @@ ul.alignnone {
     -ms-transform: translate(0%, -50%);
     -o-transform: translate(0%, -50%);
     transform: translate(0%, -50%);
-    background-color: var(--color-white);
+    background-color: #0C9C9A;
 }
 
 .swiper-full-page .slide-title-container .slide-link::before {
@@ -3585,7 +3585,7 @@ ul.alignnone {
     -o-transform: translate(40%, -50%) scale(.2, .2);
     transform: translate(40%, -50%) scale(.2, .2);
     border-radius: 50%;
-    background-color: var(--color-white);
+    background-color: #0C9C9A;
 }
 
 .swiper-full-page .slide-title-container .slide-link:after {
